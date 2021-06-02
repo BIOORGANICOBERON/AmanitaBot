@@ -1,0 +1,2 @@
+# AmanitaBot
+Amanita Bot
